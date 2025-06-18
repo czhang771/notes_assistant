@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "title": "Todo: Weekend",
+        "content": "• Buy groceries\n• Fix bike\n• Email Alex\n• Practice piano",
+        "created": "2024-09-07T10:30:00",
+        "updated": "2024-09-07T12:00:00"
+    },
+    {
+        "id": "2",
+        "title": "Wi-Fi password",
+        "content": "The router password is BananaBread2023!",
+        "created": "2024-08-25T14:10:00",
+        "updated": "2024-08-25T14:10:00"
+    },
+    {
+        "id": "3",
+        "title": "Reminder - Meeting",
+        "content": "Team sync with Charlie at 3PM on Thursday. Prepare slide deck.",
+        "created": "2024-09-06T09:00:00",
+        "updated": "2024-09-06T09:15:00"
+    },
+    {
+        "id": "4",
+        "title": "Where are my keys?",
+        "content": "Left keys in the red backpack, front zipper pocket.",
+        "created": "2024-09-03T20:45:00",
+        "updated": "2024-09-03T20:45:00"
+    },
+    {
+        "id": "5",
+        "title": "Phoebe's vet info",
+        "content": "Dr. Nelson at Happy Tails Vet. Appointment: Sep 10, 10AM.",
+        "created": "2024-08-30T16:00:00",
+        "updated": "2024-08-30T16:30:00"
+    },
+    {
+        "id": "6",
+        "title": "Email templates",
+        "content": "Hi [Name],\nJust following up on...\nBest,\nCatherine",
+        "created": "2024-09-01T11:30:00",
+        "updated": "2024-09-01T11:45:00"
+    },
+    {
+        "id": "7",
+        "title": "Random ideas",
+        "content": "Make a desktop app that organizes thoughts into searchable categories using AI.",
+        "created": "2024-09-05T22:00:00",
+        "updated": "2024-09-05T22:00:00"
+    },
+    {
+        "id": "8",
+        "title": "Flight details",
+        "content": "Flight to Boston: Oct 3, 7:20 AM, Delta 1049. Conf code: 3ZKALP.",
+        "created": "2024-09-04T08:00:00",
+        "updated": "2024-09-04T08:00:00"
+    }
+]
