@@ -219,11 +219,9 @@ async def query_notes(query_request: QueryRequest):
                 updated=datetime.utcnow()
             ))
         
-        # Format the answer using the existing format_results method
-        formatted_results = notes_core.format_results(query_request.question, results)
-        
+        # Only return the question as the answer (or you can add a custom answer string)
         return QueryResponse(
-            answer=formatted_results,
+            answer=f"Query: {query_request.question}",
             references=references
         )
         
